@@ -5,10 +5,8 @@ It contains code for two files. The first one is 'Health.txt' and other one is '
 
 
 From 'Health.txt' information about health sector is collected,tokenized,and summarized using frequency summarization(most frequent words).
-
-   the approach in the code is frequency summarization using most frequent words
+         the approach in the code is frequency summarization using most frequent words
 
 
 From 'News.txt' information about health sector is collected,tokenized,and summarized using frequency summarization(least frequent words).
-      
-       the approach in the code is frequency summarization using least frequent words because rare news headlines should be more important.
+         the approach in the code is frequency summarization using least frequent words because rare news headlines should be more important.
